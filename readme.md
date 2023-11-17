@@ -9,3 +9,4 @@ testin veel
 testin committide lisamist
 newline01010101
 newline branch 3
+newline4 branch
