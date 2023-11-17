@@ -10,3 +10,5 @@ testin committide lisamist
 newline01010101
 newline branch 3
 newline4 branch
+newline5 branch
+newline6 branch
