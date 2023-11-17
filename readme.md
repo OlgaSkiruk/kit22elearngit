@@ -9,3 +9,4 @@ testin veel
 testin committide lisamist
 newline01010101
 mainline 1Olga
+newline branch 3
